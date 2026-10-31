@@ -1,0 +1,2 @@
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/003_My_Fire_Smoke_AI_Image_Classification_v2/Appli/Core/Src/app.c:543:13:app_camera_nn_pipe_frame_cb	0	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/003_My_Fire_Smoke_AI_Image_Classification_v2/Appli/Core/Src/app.c:40:6:app_run	96	static,ignoring_inline_asm
